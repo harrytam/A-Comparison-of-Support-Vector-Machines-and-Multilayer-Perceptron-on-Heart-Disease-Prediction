@@ -1,4 +1,4 @@
-# INM427-Neural-Computing
+# A Comparison of Support Vector Machines and Multilayer Perceptron on Heart Disease Prediction
 == Instructions ==
 
 Below are the five Jupyter Notebook used in this neural computing coursework.
